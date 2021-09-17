@@ -15,6 +15,9 @@ I have expertise in <b>APP/API Automation</b> using MS Test, NUnit, <b>Mocha</b>
 
 I have expertise in <b>Salesforce</b> development and administration including <b>Salesforce Lighting</b>, <b>Workflows</b>, <b>Process Builder</b> etc. 
 
+Click these links for more detail about me <a href="https://www.amalayverma.com/p/myprofile.html" target="_blank">My Profile</a> and <a href="https://www.linkedin.com/in/amalayverma/" target="_blank">LinkedIn Profile</a>
+
+
 <!--
 **amalay/amalay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
