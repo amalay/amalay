@@ -1,9 +1,11 @@
 ### About me 👋
-I am a Microsoft Certified Technical Specialist and having expertise in Cloud, Thick, Thin and Smart application Design, Development, Deployment and Management. I have multi skilled profile as I got a chance to worked on multile domains using multiple technology stack through out my career. I strongly believe in learning, implementing and delivering  along with my team.
+I am a Microsoft Certified Technical Specialist and having expertise in Cloud, Thick, Thin and Smart application Design, Development, Deployment and Management using Agile and DevOps practices. 
 
-Currently I am working on <b>Cyber Security</b> domain and developed series of connectors and implemented various security process to identify the threats, their entry point, impacted resources/entities, chained/linked activities based on <b>MITRE ATT&CK</b> tactics in visual form. We have a also developed and implemented kill chain process through various workflows to kill the chain of the threats and remediate it automatically.
+I strongly believe in <b>LID</b> (Learning, Implementing, and Delivering) principle and having multi skilled profile which help to create a lot of values for the organization.
 
-I have expertise in <b>Azure Sentinel</b> setup, <b>Lighthousing</b>, Configuration, <b>Defining Sentinel rules</b>, Writing KQL queries, <b>Cross workspace</b> communication, Incident management, Threat detection and remediation etc.
+Currently I am working on <b>Cyber Security</b> domain and involved in developing series of connectors and implemented various security process to identify the threats, their entry point, impacted <b>Resources/Entities</b>, Chained activities based on <b>MITRE ATT&CK</b> tactics in visual form. Also involved in developing/implementing <b>Kill Chain</b> process through various workflows to kill the chain of the threats and remediate it automatically.
+
+I have expertise in <b>Azure Sentinel</b> setup, <b>Light Housing</b>, Configuration, <b>Defining Sentinel rules</b>, Writing KQL queries, <b>Cross Workspace</b> communication, Incident management, Threat detection and remediation etc.
 
 I have expertise in developing <b>Microservices</b> and <b>Cloud Application</b> using .Net Core, C#, <b>Azure Functions</b>, <b>Azure Service Fabric</b>, <b>Azure Service Fabric Mesh</b> etc. 
 
